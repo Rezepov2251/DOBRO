@@ -1,0 +1,3 @@
+﻿  Strings.cpp
+C:\Users\Иван\source\repos\Ex4\Strings\Str.h(47,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Strings.vcxproj -> C:\Users\Иван\source\repos\Ex4\x64\Debug\Strings.exe
